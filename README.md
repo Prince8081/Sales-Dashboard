@@ -1,7 +1,3 @@
-Here’s a GitHub README.md draft for your Excel project based on the provided image:
-
----
-
 # Amazon Sales Dashboard 2024 📊
 
 This project showcases a comprehensive **Sales Dashboard for Amazon** using Microsoft Excel. The dashboard provides key insights into sales data through dynamic and visually appealing charts and graphs.
